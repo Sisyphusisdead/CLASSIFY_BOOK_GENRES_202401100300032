@@ -28,5 +28,5 @@ This project uses a machine learning model to classify books into genres based o
 - `README.md` – Project summary
 
 ## ✅ Author
-Aman – AI Mid-Semester Evaluation (MSE-2)
+Aman Upadhyay – AI Mid-Semester Evaluation (MSE-2)
 
