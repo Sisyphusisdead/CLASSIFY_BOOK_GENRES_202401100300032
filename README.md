@@ -30,3 +30,11 @@ This project uses a machine learning model to classify books into genres based o
 ## ✅ Author
 Aman Upadhyay – AI Mid-Semester Evaluation (MSE-2)
 
+## 📊 Results
+
+### 📈 Initial Data & Classification Report
+![Initial Data and Report](RESULT.png)
+
+### 📉 Additional Results
+![Additional Report](RESULT%20(2).png)
+
